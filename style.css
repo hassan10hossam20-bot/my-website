@@ -1,0 +1,24 @@
+body {
+    margin: 0;
+    font-family: Tahoma, Arial, sans-serif;
+    background: linear-gradient(135deg, #fff0f5, #ffd6e3);
+    color: #5a1730;
+    text-align: center;
+}
+
+h1 {
+    font-size: 45px;
+    color: #c2185b;
+    margin-top: 50px;
+}
+
+p {
+    font-size: 22px;
+    padding: 10px;
+}
+
+img {
+    max-width: 90%;
+    border-radius: 25px;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+}
